@@ -1,0 +1,10 @@
+Shubhodeep 1 70
+Saptarshi 2 90
+Amitabh 3 80
+Shivam 4 97
+Rohit 5	92
+Kamal 6	84
+Sayak 7	99
+Vibhash 8 74
+Aman 9 65
+Farque 10 68
